@@ -1,0 +1,12 @@
+D:\RnD\Javis\Javis\bin\Release\Javis.exe
+D:\RnD\Javis\Javis\bin\Release\System.Json.dll
+D:\RnD\Javis\Javis\obj\Release\Javis.csprojResolveAssemblyReference.cache
+D:\RnD\Javis\Javis\obj\Release\Javis.Javis.resources
+D:\RnD\Javis\Javis\obj\Release\Javis.Properties.Resources.resources
+D:\RnD\Javis\Javis\obj\Release\Javis.csproj.GenerateResource.Cache
+D:\RnD\Javis\Javis\bin\Release\Javis.exe.config
+D:\RnD\Javis\Javis\bin\Release\vocab.txt
+D:\RnD\Javis\Javis\bin\Release\database.json
+D:\RnD\Javis\Javis\obj\Release\Javis.exe
+D:\RnD\Javis\Javis\obj\Release\Javis.pdb
+D:\RnD\Javis\Javis\bin\Release\Javis.pdb

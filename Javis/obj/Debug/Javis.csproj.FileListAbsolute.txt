@@ -1,0 +1,12 @@
+D:\RnD\Javis\Javis\bin\Debug\Javis.exe.config
+D:\RnD\Javis\Javis\bin\Debug\Javis.exe
+D:\RnD\Javis\Javis\bin\Debug\Javis.pdb
+D:\RnD\Javis\Javis\obj\Debug\Javis.Properties.Resources.resources
+D:\RnD\Javis\Javis\obj\Debug\Javis.csproj.GenerateResource.Cache
+D:\RnD\Javis\Javis\obj\Debug\Javis.exe
+D:\RnD\Javis\Javis\obj\Debug\Javis.pdb
+D:\RnD\Javis\Javis\bin\Debug\System.Json.dll
+D:\RnD\Javis\Javis\bin\Debug\database.json
+D:\RnD\Javis\Javis\bin\Debug\vocab.txt
+D:\RnD\Javis\Javis\obj\Debug\Javis.csprojResolveAssemblyReference.cache
+D:\RnD\Javis\Javis\obj\Debug\Javis.Javis.resources
